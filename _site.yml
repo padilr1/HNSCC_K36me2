@@ -1,0 +1,7 @@
+name: ""
+navbar:
+  title: "HNSCC"
+  left:
+    - text: "MS values"
+      href: index.html
+output_dir: "docs"
